@@ -1,4 +1,10 @@
+* TODO 590R Learning to Rank
+
+* TODO Compiler P30
+
 * TODO Write Blog
   SCHEDULED: <2018-10-23 Tue>
+
+
 
 
